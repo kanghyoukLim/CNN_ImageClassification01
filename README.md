@@ -6,4 +6,4 @@
   
 old한 프로젝트이지만 기초를 이해하기 위해 중요한 과정이다.  
 
-[프로젝트](https://github.com/kanghyoukLim/CNN_ImageClassification01/blob/main/CNN_ImageClassification01.ipynb)
+[프로젝트 CNN_ImageClassification01.ipynb](https://github.com/kanghyoukLim/CNN_ImageClassification01/blob/main/CNN_ImageClassification01.ipynb)
